@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4324
     wikipedia: http://en.wikipedia.org/wiki/Joris-Karl_Huysmans
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23940#Un-dilemme
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2007-12-20'
 gutenberg_type: Text
