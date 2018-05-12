@@ -1,0 +1,33 @@
+_repo: Un-dilemme_23940
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huysmans, J.-K. (Joris-Karl)
+    aliases:
+    - Huysmans, Charles-Marie-Georges
+    - Huysmans, Jaris-Karl
+    - Huysmans, Jorris-Karl
+    - Huysmans, Joris Karl
+    birthdate: 1848
+    deathdate: 1907
+    gutenberg_agent_id: '4324'
+    url: http://www.gutenberg.org/2009/agents/4324
+    wikipedia: http://en.wikipedia.org/wiki/Joris-Karl_Huysmans
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2007-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23940'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 19th century'
+- !lcc 'PQ'
+title: Un dilemme
+url: http://www.gutenberg.org/ebooks/23940
